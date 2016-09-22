@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="xxe/xxe.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xxe/Default.aspx.cs">
+    <Files>
+      <File FileName="xxe/Default.aspx" Line="10" Column="77" />
+      <File FileName="xxe/Default.aspx.cs" Line="46" Column="13" />
+      <File FileName="xxe/xxe_clean.xml" Line="4" Column="17" />
+      <File FileName="xxe/xxe.xml" Line="8" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/USER/xxe/xxe/Default.aspx.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
